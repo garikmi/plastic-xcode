@@ -30,4 +30,4 @@ This is a port of [Plastic Theme](https://plastictheme.com) for Xcode.
 2. Select <code>Plastic</code> theme
 
 # Other
-You can also checkout my dotfiles for Alacritty Plastic theme configuration.
+You can also check out my dotfiles for Alacritty Plastic theme configuration.
