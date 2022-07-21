@@ -28,3 +28,6 @@ This is a port of [Plastic Theme](https://plastictheme.com) for Xcode.
 
 1. <code>Xcode > Preferences > Themes</code>
 2. Select <code>Plastic</code> theme
+
+# Other
+You can also checkout my dotfiles for Alacritty Plastic theme configuration.
